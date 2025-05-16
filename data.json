@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "partnerId": "北一",
+      "partnerId": "北二",
       "date": "2025/5/16",
       "items": {
         "大片酥餅(箱)": {
@@ -395,7 +395,7 @@
       }
     },
     {
-      "partnerId": "北二",
+      "partnerId": "北一",
       "date": "2025/5/16",
       "items": {
         "大片酥餅(箱)": {
@@ -783,7 +783,7 @@
           "checked": false
         },
         "運費(北部)": {
-          "count": 0,
+          "count": 1,
           "checked": false
         }
       }
