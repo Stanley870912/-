@@ -1203,6 +1203,60 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "小小妹",
+      "date": "2025/6/17",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 7,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 20,
+          "checked": true
+        },
+        "單色糕(杏仁)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芒果酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "櫻花盒(個)": {
+          "count": 25,
+          "checked": true
+        }
+      }
     }
   ]
 }
