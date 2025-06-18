@@ -1312,6 +1312,124 @@
       "partnerId": "",
       "date": "; 6/18",
       "items": {}
+    },
+    {
+      "partnerId": "南一",
+      "date": "2025/6/18",
+      "items": {
+        "鳳眼糕(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 30,
+          "checked": true
+        },
+        "薄餅(黑胡椒)(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "薄餅(黑糖蜂蜜)(包)": {
+          "count": 30,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 20,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(綠豆)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "芒果酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芋頭酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "荔枝酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洋果子(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 300,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "新年夾鏈袋(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 2,
+          "checked": true
+        },
+        "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
