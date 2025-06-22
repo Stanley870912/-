@@ -1736,6 +1736,16 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "南五",
+      "date": "2025/6/22",
+      "items": {
+        "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
