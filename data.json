@@ -1853,6 +1853,11 @@
       }
     },
     {
+      "partnerId": "",
+      "date": "",
+      "items": {}
+    },
+    {
       "partnerId": "南五",
       "date": "2025/6/22",
       "items": {
@@ -1861,11 +1866,6 @@
           "checked": true
         }
       }
-    },
-    {
-      "partnerId": "",
-      "date": "",
-      "items": {}
     }
   ]
 }
