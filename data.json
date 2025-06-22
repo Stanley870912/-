@@ -6,11 +6,6 @@
       "items": {}
     },
     {
-      "partnerId": "",
-      "date": "",
-      "items": {}
-    },
-    {
       "partnerId": "北六",
       "date": "2025/6/17",
       "items": {
@@ -1866,6 +1861,11 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "",
+      "date": "",
+      "items": {}
     }
   ]
 }
