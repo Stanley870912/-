@@ -2452,6 +2452,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2025/6/25",
+      "items": {
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 15,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "五香肉桂鹹糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "凍干草苺雪Q餅(袋)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "櫻花盒(個)": {
+          "count": 50,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
