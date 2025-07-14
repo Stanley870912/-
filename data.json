@@ -1634,6 +1634,84 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "阿邦",
+      "date": "2025/7/14",
+      "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-耶子奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "冬瓜肉餅(塊)": {
+          "count": 10,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "老婆餅(甜)(包)": {
+          "count": 30,
+          "checked": true
+        },
+        "薄餅(原味)(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "杏仁酥(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "鳳梨餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "蔓越莓餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "水果餅(鳳梨)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "水果餅(芋頭)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "水果餅(百香果)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "水果餅(黑糖)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "單色糕(杏仁)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(黑芝麻)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
+          "checked": true
+        }
+      }
     }
   ]
 }
