@@ -1844,6 +1844,52 @@
       }
     },
     {
+      "partnerId": "北四",
+      "date": "2025/7/15",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "五香肉桂鹹糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
       "partnerId": "北一",
       "date": "2025/7/15",
       "items": {
@@ -1941,52 +1987,6 @@
         },
         "袋子（小）": {
           "count": 2,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
-      "partnerId": "北四",
-      "date": "2025/7/15",
-      "items": {
-        "牛舌餅(箱)": {
-          "count": 3,
-          "checked": true
-        },
-        "綜合糕(芝杏綠)(盒)": {
-          "count": 5,
-          "checked": true
-        },
-        "綜合糕(咖奶綠)(盒)": {
-          "count": 5,
-          "checked": true
-        },
-        "五香肉桂鹹糕(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "梅子夾芒果": {
-          "count": 2,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 1,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 3,
-          "checked": true
-        },
-        "筷子肉乾(原味) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "袋子（大）": {
-          "count": 1,
           "checked": true
         },
         "運費(北部)": {
