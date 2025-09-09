@@ -1972,6 +1972,120 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北八",
+      "date": "2025/9/9",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 15,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(鹹話梅)（需先預定）(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(杏仁)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "鳳凰酥(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "蛋黃酥(條)": {
+          "count": 10,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "凍干草苺雪Q餅(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "榴槤酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芒果酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芋頭酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "老梅酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "荔枝酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 4,
+          "checked": true
+        },
+        "愛馬仕地瓜乾": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "葡萄梅子（陳皮）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "各式貼紙(張)": {
+          "count": 1000,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 5,
+          "checked": true
+        }
+      }
     }
   ]
 }
