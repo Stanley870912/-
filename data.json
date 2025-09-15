@@ -1718,6 +1718,128 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北三",
+      "date": "2025/9/15",
+      "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "鳳眼糕(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "冬瓜肉餅(塊)": {
+          "count": 21,
+          "checked": true
+        },
+        "咖哩肉餅(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "鹹甜梅糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 8,
+          "checked": true
+        },
+        "薄餅(黑糖蜂蜜)(包)": {
+          "count": 4,
+          "checked": true
+        },
+        "杏仁酥(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "水果餅(鳳梨)(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "水果餅(芋頭)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 8,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(綠豆)(盒)": {
+          "count": 1,
+          "checked": true
+        },
+        "蒜蓉餅(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "鳳凰酥(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蛋黃酥(條)": {
+          "count": 22,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 12,
+          "checked": true
+        },
+        "栗子燒(盒)": {
+          "count": 12,
+          "checked": true
+        },
+        "千層酥肉鬆酥": {
+          "count": 3,
+          "checked": true
+        },
+        "芝麻冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
+        "花生冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
+        "梅子冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
+        "冬瓜糕(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "梅餅(包)": {
+          "count": 14,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
