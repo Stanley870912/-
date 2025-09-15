@@ -1840,6 +1840,68 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北一",
+      "date": "2025/9/15",
+      "items": {
+        "芝麻鳳梨餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "咖哩肉餅(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "老婆餅(甜)(包)": {
+          "count": 80,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(鹹話梅)（需先預定）(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "蒜蓉餅(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "蛋黃酥(條)": {
+          "count": 30,
+          "checked": true
+        },
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "葡萄梅子（原味）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
