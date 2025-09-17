@@ -1690,6 +1690,60 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2025/9/17",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "蛋黃酥(條)": {
+          "count": 15,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "凍干草苺雪Q餅(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "各式貼紙(張)": {
+          "count": 300,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 2,
+          "checked": true
+        }
+      }
     }
   ]
 }
