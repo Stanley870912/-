@@ -1462,6 +1462,84 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北五",
+      "date": "2025/9/19",
+      "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "咖哩肉餅(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "薄餅(原味)(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "鳳梨餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "蔓越莓餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "蒜蓉餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "栗子燒(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "堅果塔(個)": {
+          "count": 50,
+          "checked": true
+        },
+        "芝麻冬瓜糕": {
+          "count": 4,
+          "checked": true
+        },
+        "梅子冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
+        "冬瓜糕(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
