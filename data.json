@@ -1713,6 +1713,14 @@
           "count": 5,
           "checked": true
         },
+        "冬瓜肉餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "芝麻鳳梨餅(塊)": {
+          "count": 10,
+          "checked": true
+        },
         "咖哩肉餅(包)": {
           "count": 6,
           "checked": true
@@ -1745,6 +1753,10 @@
           "count": 3,
           "checked": true
         },
+        "單色糕(杏仁)(盒)": {
+          "count": 10,
+          "checked": true
+        },
         "蒜蓉餅(盒)": {
           "count": 5,
           "checked": true
@@ -1755,14 +1767,6 @@
         },
         "蛋黃酥(條)": {
           "count": 20,
-          "checked": true
-        },
-        "土鳳梨酥(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "荔枝酥(箱)": {
-          "count": 1,
           "checked": true
         },
         "栗子燒(盒)": {
