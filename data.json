@@ -11,11 +11,6 @@
       "items": {}
     },
     {
-      "partnerId": "",
-      "date": "",
-      "items": {}
-    },
-    {
       "partnerId": "北二",
       "date": "2025/9/23",
       "items": {
@@ -2392,6 +2387,11 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "",
+      "date": "",
+      "items": {}
     }
   ]
 }
