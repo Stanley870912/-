@@ -2335,6 +2335,11 @@
       }
     },
     {
+      "partnerId": "",
+      "date": "",
+      "items": {}
+    },
+    {
       "partnerId": "北四",
       "date": "2025/9/27",
       "items": {
@@ -2387,11 +2392,6 @@
           "checked": true
         }
       }
-    },
-    {
-      "partnerId": "",
-      "date": "",
-      "items": {}
     }
   ]
 }
