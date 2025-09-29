@@ -1904,60 +1904,6 @@
       }
     },
     {
-      "partnerId": "北四",
-      "date": "2025/9/27",
-      "items": {
-        "牛舌餅(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "綜合糕(芝杏綠)(盒)": {
-          "count": 10,
-          "checked": true
-        },
-        "蛋黃酥(條)": {
-          "count": 5,
-          "checked": true
-        },
-        "雪Ｑ餅(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "凍干草苺雪Q餅(袋)": {
-          "count": 1,
-          "checked": true
-        },
-        "綜合堅果(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黑芝麻糕(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黑豆袋子(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "愛心袋": {
-          "count": 4,
-          "checked": true
-        },
-        "零食包裝袋(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
       "partnerId": "北九",
       "date": "2025/9/29",
       "items": {
@@ -2388,6 +2334,60 @@
           "checked": true
         },
         "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2025/9/27",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "蛋黃酥(條)": {
+          "count": 5,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "凍干草苺雪Q餅(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 4,
+          "checked": true
+        },
+        "零食包裝袋(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "運費(北部)": {
           "count": 1,
           "checked": true
         }
