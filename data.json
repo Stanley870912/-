@@ -2664,6 +2664,52 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北九",
+      "date": "2025/10/1",
+      "items": {
+        "蛋黃酥(條)": {
+          "count": 30,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "榴槤酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芒果酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芋頭酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "荔枝酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
