@@ -1568,6 +1568,52 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2025/10/17",
+      "items": {
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "愛馬仕地瓜乾": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "各式貼紙(張)": {
+          "count": 200,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 5,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
