@@ -1028,6 +1028,16 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北二",
+      "date": "2025/10/23",
+      "items": {
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
