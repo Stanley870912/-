@@ -2684,7 +2684,7 @@
           "checked": true
         },
         "牛舌餅(箱)": {
-          "count": 2,
+          "count": 3,
           "checked": true
         },
         "老婆餅(甜)(包)": {
@@ -2727,8 +2727,8 @@
           "count": 2,
           "checked": true
         },
-        "土鳳梨酥(箱)": {
-          "count": 1,
+        "黑芝麻餅(盒)": {
+          "count": 5,
           "checked": true
         },
         "栗子燒(盒)": {
@@ -2736,6 +2736,10 @@
           "checked": true
         },
         "千層花生酥(盒)": {
+          "count": 4,
+          "checked": true
+        },
+        "千層酥肉鬆酥": {
           "count": 3,
           "checked": true
         },
