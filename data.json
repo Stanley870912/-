@@ -3140,6 +3140,10 @@
         "黑豆(包)": {
           "count": 3,
           "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
         }
       }
     }
