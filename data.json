@@ -2578,6 +2578,64 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北九",
+      "date": "2025/11/10",
+      "items": {
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生酥": {
+          "count": 2,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 10,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
