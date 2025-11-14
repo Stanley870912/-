@@ -2004,6 +2004,64 @@
       }
     },
     {
+      "partnerId": "北二",
+      "date": "2025/11/14",
+      "items": {
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生酥(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 4,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
       "partnerId": "北六",
       "date": "2025/11/14",
       "items": {
@@ -2087,6 +2145,22 @@
           "count": 6,
           "checked": true
         },
+        "千層花生酥(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "千層酥肉鬆酥": {
+          "count": 2,
+          "checked": true
+        },
+        "芝麻冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
+        "花生冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
         "梅子冬瓜糕": {
           "count": 3,
           "checked": true
@@ -2109,64 +2183,6 @@
         },
         "袋子（小）": {
           "count": 1,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
-      "partnerId": "北二",
-      "date": "2025/11/14",
-      "items": {
-        "養生五穀沙其馬(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "綜合堅果(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 1,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "花生酥(袋)": {
-          "count": 1,
-          "checked": true
-        },
-        "龜苓膏(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "梅子夾芒果": {
-          "count": 2,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黃魚酥(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黑芝麻糕(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "梨膏糖(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 4,
           "checked": true
         },
         "運費(北部)": {
