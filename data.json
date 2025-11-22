@@ -2966,6 +2966,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十",
+      "date": "2025/11/22",
+      "items": {
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 4,
+          "checked": true
+        },
+        "零食包裝袋(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
