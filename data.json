@@ -2896,7 +2896,7 @@
           "checked": true
         },
         "冬瓜肉餅(塊)": {
-          "count": 25,
+          "count": 30,
           "checked": true
         },
         "芝麻鳳梨餅(塊)": {
@@ -2971,6 +2971,10 @@
           "count": 6,
           "checked": true
         },
+        "黑芝麻餅(盒)": {
+          "count": 5,
+          "checked": true
+        },
         "栗子燒(盒)": {
           "count": 8,
           "checked": true
@@ -2991,11 +2995,11 @@
           "count": 1,
           "checked": true
         },
-        "黑芝麻糕(箱)": {
+        "地瓜乾(箱)": {
           "count": 1,
           "checked": true
         },
-        "梨膏糖(箱)": {
+        "黑芝麻糕(箱)": {
           "count": 1,
           "checked": true
         },
