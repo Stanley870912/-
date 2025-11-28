@@ -2618,6 +2618,164 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北六",
+      "date": "2025/11/28",
+      "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鳳眼糕(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "冬瓜肉餅(塊)": {
+          "count": 35,
+          "checked": true
+        },
+        "芝麻鳳梨餅(塊)": {
+          "count": 10,
+          "checked": true
+        },
+        "咖哩肉餅(包)": {
+          "count": 15,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "鹹甜梅糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "老婆餅(甜)(包)": {
+          "count": 250,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 8,
+          "checked": true
+        },
+        "薄餅(黑糖蜂蜜)(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "鳳梨餅(塊)": {
+          "count": 3,
+          "checked": true
+        },
+        "蔓越莓餅(塊)": {
+          "count": 3,
+          "checked": true
+        },
+        "水果餅(芋頭)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 30,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "五香肉桂鹹糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(杏仁)(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "單色糕(黑芝麻)(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "小蘇餅(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "蒜蓉餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "榴槤酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鮮花餅(條)": {
+          "count": 3,
+          "checked": true
+        },
+        "綠豆椪(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "栗子燒(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "芝麻冬瓜糕": {
+          "count": 2,
+          "checked": true
+        },
+        "花生冬瓜糕": {
+          "count": 2,
+          "checked": true
+        },
+        "梅子冬瓜糕": {
+          "count": 3,
+          "checked": true
+        },
+        "冬瓜糕(盒)": {
+          "count": 3,
+          "checked": true
+        },
+        "梅餅(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
