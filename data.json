@@ -2360,60 +2360,6 @@
       }
     },
     {
-      "partnerId": "北二",
-      "date": "2025/11/30",
-      "items": {
-        "雪Ｑ餅(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 1,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "紅棗加核桃(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "花生酥(袋)": {
-          "count": 1,
-          "checked": true
-        },
-        "龜苓膏(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "梅子夾芒果": {
-          "count": 1,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黃魚酥(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "花茶(包)": {
-          "count": 200,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
       "partnerId": "菁洳",
       "date": "2025/11/29",
       "items": {
@@ -2651,6 +2597,60 @@
         },
         "袋子（小）": {
           "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
+      "partnerId": "北二",
+      "date": "2025/11/30",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生酥(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "花茶(包)": {
+          "count": 200,
           "checked": true
         },
         "運費(北部)": {
