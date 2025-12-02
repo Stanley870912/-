@@ -2704,7 +2704,7 @@
           "checked": true
         },
         "芝麻鳳梨餅(塊)": {
-          "count": 5,
+          "count": 10,
           "checked": true
         },
         "咖哩肉餅(包)": {
@@ -2720,7 +2720,7 @@
           "checked": true
         },
         "老婆餅(甜)(包)": {
-          "count": 250,
+          "count": 300,
           "checked": true
         },
         "薄餅(黑芝麻)(包)": {
@@ -2779,8 +2779,12 @@
           "count": 5,
           "checked": true
         },
+        "黑芝麻餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
         "南瓜餅(盒)": {
-          "count": 5,
+          "count": 6,
           "checked": true
         },
         "梅子冬瓜糕": {
