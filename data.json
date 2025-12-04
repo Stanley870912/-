@@ -2517,6 +2517,14 @@
       "partnerId": "北六",
       "date": "2025/12/4",
       "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
         "冬瓜肉餅(塊)": {
           "count": 30,
           "checked": true
@@ -2590,15 +2598,11 @@
           "checked": true
         },
         "黑芝麻餅(盒)": {
-          "count": 7,
+          "count": 12,
           "checked": true
         },
         "南瓜餅(盒)": {
           "count": 6,
-          "checked": true
-        },
-        "栗子燒(盒)": {
-          "count": 7,
           "checked": true
         },
         "梅餅(包)": {
@@ -2619,6 +2623,10 @@
         },
         "黑芝麻糕(箱)": {
           "count": 2,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
           "checked": true
         },
         "袋子（大）": {
