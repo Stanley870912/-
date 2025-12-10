@@ -2344,6 +2344,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2025/12/10",
+      "items": {
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "葡萄梅子（陳皮）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆袋子(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
