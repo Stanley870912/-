@@ -2786,6 +2786,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十",
+      "date": "2025/12/20",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "葡萄梅子（陳皮）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
