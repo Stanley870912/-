@@ -2342,10 +2342,6 @@
       "date": "2025/12/22",
       "items": {
         "綜合堅果(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "蘋果乾": {
           "count": 1,
           "checked": true
         },
@@ -2353,20 +2349,8 @@
           "count": 1,
           "checked": true
         },
-        "駝奶(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "龜苓膏(箱)": {
-          "count": 1,
-          "checked": true
-        },
         "紅棗加核桃(箱)": {
           "count": 1,
-          "checked": true
-        },
-        "黃魚酥(箱)": {
-          "count": 2,
           "checked": true
         },
         "黑豆(包)": {
@@ -2378,18 +2362,6 @@
           "checked": true
         },
         "地瓜乾(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黑芝麻糕(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "筷子肉乾(原味) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "筷子肉乾(黑胡椒) (包)": {
           "count": 1,
           "checked": true
         },
@@ -2397,12 +2369,8 @@
           "count": 1,
           "checked": true
         },
-        "牛扎糖(原味)(斤)": {
-          "count": 10,
-          "checked": true
-        },
         "黑豆袋子(包)": {
-          "count": 10,
+          "count": 5,
           "checked": true
         },
         "愛心袋": {
