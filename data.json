@@ -3346,6 +3346,52 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "小甯",
+      "date": "2025/12/25",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "葡萄梅子（陳皮）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖原味(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖蔓越莓(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
