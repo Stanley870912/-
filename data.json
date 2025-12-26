@@ -3186,6 +3186,20 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "華姐",
+      "date": "2025/12/26",
+      "items": {
+        "黃魚酥原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
