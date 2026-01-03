@@ -2638,6 +2638,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "阿邦",
+      "date": "2026/1/3",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥辣味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生姑娘(椒鹽)(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生姑娘(藤椒)(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 2,
+          "checked": true
+        },
+        "各式貼紙(張)": {
+          "count": 300,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
