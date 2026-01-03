@@ -3086,64 +3086,6 @@
       }
     },
     {
-      "partnerId": "北十",
-      "date": "2026/1/3",
-      "items": {
-        "雪Ｑ餅(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "黃魚酥原味(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黃魚酥辣味(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "紅棗加核桃(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "龜苓膏(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "梅子夾芒果": {
-          "count": 1,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "花生姑娘(椒鹽)(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "花生姑娘(藤椒)(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "花生姑娘(香辣)(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
       "partnerId": "北六",
       "date": "2026/1/3",
       "items": {
@@ -3241,6 +3183,64 @@
         },
         "袋子（小）": {
           "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
+      "partnerId": "北十",
+      "date": "2026/1/3",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥辣味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生姑娘(椒鹽)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生姑娘(藤椒)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生姑娘(香辣)(包)": {
+          "count": 2,
           "checked": true
         },
         "運費(北部)": {
