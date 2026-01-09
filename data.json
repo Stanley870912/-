@@ -4336,15 +4336,105 @@
       }
     },
     {
+      "partnerId": "北二",
+      "date": "2026/1/9",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥辣味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "薑母茶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "花茶(包)": {
+          "count": 100,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "各式貼紙(張)": {
+          "count": 50,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
       "partnerId": "北一",
       "date": "2026/1/9",
       "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
         "麵茶(包)": {
           "count": 5,
           "checked": true
         },
         "鳳眼糕(盒)": {
           "count": 10,
+          "checked": true
+        },
+        "冬瓜肉餅(塊)": {
+          "count": 20,
           "checked": true
         },
         "芝麻鳳梨餅(塊)": {
@@ -4489,84 +4579,6 @@
         },
         "袋子（小）": {
           "count": 2,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
-      "partnerId": "北二",
-      "date": "2026/1/9",
-      "items": {
-        "雪Ｑ餅(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "綜合堅果(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 1,
-          "checked": true
-        },
-        "黃魚酥原味(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黃魚酥辣味(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "梨膏糖(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "薑母茶(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "黑芝麻糕(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "花茶(包)": {
-          "count": 100,
-          "checked": true
-        },
-        "筷子肉乾(原味) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "筷子肉乾(蒜味) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "各式貼紙(張)": {
-          "count": 50,
-          "checked": true
-        },
-        "袋子（大）": {
-          "count": 1,
-          "checked": true
-        },
-        "袋子（小）": {
-          "count": 1,
           "checked": true
         },
         "運費(北部)": {
