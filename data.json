@@ -3874,6 +3874,68 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北五",
+      "date": "2026/1/13",
+      "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "麵茶(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "芝麻鳳梨餅(塊)": {
+          "count": 8,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "老婆餅(甜)(包)": {
+          "count": 100,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "水果餅(百香果)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "水果餅(黑糖)(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "薑母茶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
