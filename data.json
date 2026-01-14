@@ -11,11 +11,6 @@
       "items": {}
     },
     {
-      "partnerId": "",
-      "date": "",
-      "items": {}
-    },
-    {
       "partnerId": "北五",
       "date": "2026/1/7",
       "items": {
@@ -3998,6 +3993,68 @@
           "checked": true
         },
         "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
+      "partnerId": "",
+      "date": "",
+      "items": {
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 30,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(綠豆)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(杏仁)(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "單色糕(黑芝麻)(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "單色糕(牛奶)(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "單色糕(鹹話梅)（需先預定）(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "鳳凰酥(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "好事花生酥(袋)": {
+          "count": 5,
+          "checked": true
+        },
+        "小蘇餅(包)": {
+          "count": 9,
+          "checked": true
+        },
+        "蒜蓉餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "杏仁瓦片(包) （需先預定）": {
+          "count": 10,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
           "count": 1,
           "checked": true
         }
