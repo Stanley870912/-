@@ -4721,6 +4721,116 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "南一",
+      "date": "2026/1/16",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "榴槤酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "牛軋餅-原味(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "牛軋餅-黑糖(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "薑母茶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "花生酥(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖原味(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖蔓越莓(袋)": {
+          "count": 2,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生姑娘(椒鹽)(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "花生姑娘(藤椒)(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "花生姑娘(香辣)(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 3,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 2,
+          "checked": true
+        },
+        "水果酥禮盒(個)": {
+          "count": 6,
+          "checked": true
+        },
+        "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
