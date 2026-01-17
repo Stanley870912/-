@@ -3977,6 +3977,60 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北二",
+      "date": "2026/1/17",
+      "items": {
+        "蛋黃酥(條)": {
+          "count": 10,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "栗子燒(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥辣味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
