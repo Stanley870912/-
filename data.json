@@ -4456,6 +4456,48 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北九",
+      "date": "2026/1/23",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生姑娘(藤椒)(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生姑娘(香辣)(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
