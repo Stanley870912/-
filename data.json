@@ -4126,6 +4126,104 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "南三",
+      "date": "2026/1/21",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芒果酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "芋頭酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "荔枝酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鳳梨水果酥(個)": {
+          "count": 20,
+          "checked": true
+        },
+        "蔓越莓水果酥(個)": {
+          "count": 30,
+          "checked": true
+        },
+        "榴槤水果酥(個)": {
+          "count": 30,
+          "checked": true
+        },
+        "堅果塔(個)": {
+          "count": 100,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "薑母茶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 1,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生姑娘(椒鹽)(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "花生姑娘(藤椒)(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "花生姑娘(香辣)(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 3,
+          "checked": true
+        },
+        "水果酥禮盒(個)": {
+          "count": 14,
+          "checked": true
+        },
+        "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
