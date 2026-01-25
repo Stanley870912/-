@@ -3892,6 +3892,60 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2026/1/25",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
