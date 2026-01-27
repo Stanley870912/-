@@ -4248,6 +4248,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北四",
+      "date": "2026/1/27",
+      "items": {
+        "紅麥花生酥(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "糙米花生酥(包)": {
+          "count": 10,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "薑母茶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
