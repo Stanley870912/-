@@ -4423,10 +4423,6 @@
           "count": 5,
           "checked": true
         },
-        "牛舌餅(箱)": {
-          "count": 5,
-          "checked": true
-        },
         "老婆餅(甜)(包)": {
           "count": 150,
           "checked": true
@@ -4484,7 +4480,7 @@
           "checked": true
         },
         "蒜蓉餅(盒)": {
-          "count": 5,
+          "count": 8,
           "checked": true
         },
         "雪Ｑ餅(包)": {
@@ -4548,6 +4544,14 @@
           "checked": true
         },
         "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖原味(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖蔓越莓(袋)": {
           "count": 1,
           "checked": true
         },
