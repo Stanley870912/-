@@ -4376,6 +4376,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北九",
+      "date": "2026/1/31",
+      "items": {
+        "養生五穀沙其馬(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "葡萄梅子（陳皮）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖原味(袋)": {
+          "count": 2,
+          "checked": true
+        },
+        "牛扎糖蔓越莓(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 3,
+          "checked": true
+        },
+        "玥珍軒袋(包)": {
+          "count": 11,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 3,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 3,
+          "checked": true
+        }
+      }
     }
   ]
 }
