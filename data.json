@@ -5268,6 +5268,20 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北二",
+      "date": "2026/2/8",
+      "items": {
+        "花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
