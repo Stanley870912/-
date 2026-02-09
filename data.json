@@ -5066,6 +5066,176 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "南三",
+      "date": "2026/2/9",
+      "items": {
+        "大片酥餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "小片酥餅-耶子奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "麵茶(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "鳳眼糕(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "芝麻鳳梨餅(塊)": {
+          "count": 20,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "鹹甜梅糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "老婆餅(甜)(包)": {
+          "count": 300,
+          "checked": true
+        },
+        "薄餅(原味)(包)": {
+          "count": 16,
+          "checked": true
+        },
+        "薄餅(黑芝麻)(包)": {
+          "count": 18,
+          "checked": true
+        },
+        "鳳梨餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "紅豆餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "蔓越莓餅(塊)": {
+          "count": 5,
+          "checked": true
+        },
+        "水果餅(鳳梨)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "水果餅(芋頭)(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "水果餅(百香果)(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "水果餅(黑糖)(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 40,
+          "checked": true
+        },
+        "綜合糕(咖奶綠)(盒)": {
+          "count": 15,
+          "checked": true
+        },
+        "單色糕(杏仁)(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "單色糕(黑芝麻)(盒)": {
+          "count": 1,
+          "checked": true
+        },
+        "單色糕(牛奶)(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "單色糕(檸檬)(盒)": {
+          "count": 23,
+          "checked": true
+        },
+        "單色糕(鹹話梅)（需先預定）(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "鳳凰酥(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "小蘇餅(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "芒果酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "蔓越莓水果酥(個)": {
+          "count": 10,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "南瓜餅(盒)": {
+          "count": 2,
+          "checked": true
+        },
+        "栗子燒(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "開心果(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "芝麻冬瓜糕": {
+          "count": 4,
+          "checked": true
+        },
+        "花生冬瓜糕": {
+          "count": 17,
+          "checked": true
+        },
+        "梅子冬瓜糕": {
+          "count": 7,
+          "checked": true
+        },
+        "冬瓜糕(盒)": {
+          "count": 8,
+          "checked": true
+        },
+        "梅餅(包)": {
+          "count": 5,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 3,
+          "checked": true
+        }
+      }
     }
   ]
 }
