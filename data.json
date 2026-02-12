@@ -5840,6 +5840,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "華姐",
+      "date": "2026/2/12",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 4,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 6,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "魷魚絲(箱)": {
+          "count": 6,
+          "checked": true
+        },
+        "牛扎糖原味(袋)": {
+          "count": 3,
+          "checked": true
+        },
+        "牛扎糖蔓越莓(袋)": {
+          "count": 3,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
