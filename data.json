@@ -3308,6 +3308,44 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "南一",
+      "date": "2026/2/18",
+      "items": {
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 90,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "葡萄梅子（原味）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 3,
+          "checked": true
+        },
+        "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
