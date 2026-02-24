@@ -1521,6 +1521,14 @@
       "partnerId": "菁洳",
       "date": "2026/2/24",
       "items": {
+        "牛舌餅(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 30,
+          "checked": true
+        },
         "雪Ｑ餅(包)": {
           "count": 3,
           "checked": true
@@ -1530,46 +1538,50 @@
           "checked": true
         },
         "榴槤酥(箱)": {
-          "count": 1,
+          "count": 2,
           "checked": true
         },
         "芒果酥(箱)": {
-          "count": 1,
+          "count": 2,
           "checked": true
         },
         "芋頭酥(箱)": {
           "count": 1,
           "checked": true
         },
-        "老梅酥(箱)": {
-          "count": 1,
-          "checked": true
-        },
         "荔枝酥(箱)": {
-          "count": 1,
+          "count": 2,
           "checked": true
         },
-        "鹹蛋黃酥(箱)": {
-          "count": 1,
+        "鳳梨水果酥(個)": {
+          "count": 30,
           "checked": true
         },
-        "堅果塔(個)": {
-          "count": 60,
+        "蔓越莓水果酥(個)": {
+          "count": 30,
+          "checked": true
+        },
+        "榴槤水果酥(個)": {
+          "count": 30,
+          "checked": true
+        },
+        "黑芝麻餅(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "南瓜餅(盒)": {
+          "count": 5,
+          "checked": true
+        },
+        "栗子燒(盒)": {
+          "count": 10,
           "checked": true
         },
         "養生五穀沙其馬(箱)": {
           "count": 4,
           "checked": true
         },
-        "芒果乾(箱)": {
-          "count": 1,
-          "checked": true
-        },
         "綜合堅果(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "蘋果乾": {
           "count": 1,
           "checked": true
         },
@@ -1581,16 +1593,24 @@
           "count": 1,
           "checked": true
         },
-        "紅棗加核桃(箱)": {
-          "count": 1,
+        "黑豆(包)": {
+          "count": 2,
           "checked": true
         },
-        "牛扎糖原味(袋)": {
-          "count": 1,
+        "花生姑娘(椒鹽)(包)": {
+          "count": 2,
           "checked": true
         },
-        "牛扎糖蔓越莓(袋)": {
-          "count": 1,
+        "花生姑娘(藤椒)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "花生姑娘(香辣)(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 2,
           "checked": true
         },
         "運費(自取)": {
