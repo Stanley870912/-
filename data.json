@@ -1608,6 +1608,64 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "菁洳",
+      "date": "2026/3/11",
+      "items": {
+        "牛舌餅(包)": {
+          "count": 6,
+          "checked": true
+        },
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 40,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 4,
+          "checked": true
+        },
+        "堅果塔(個)": {
+          "count": 50,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 4,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥辣味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 10,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
