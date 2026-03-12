@@ -2290,48 +2290,6 @@
       }
     },
     {
-      "partnerId": "北11",
-      "date": "2026/3/12",
-      "items": {
-        "雪Ｑ餅(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "土鳳梨酥(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "養生五穀沙其馬(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 2,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 4,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "葡萄梅子（陳皮）(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "愛心袋": {
-          "count": 5,
-          "checked": true
-        }
-      }
-    },
-    {
       "partnerId": "北六",
       "date": "2026/3/12",
       "items": {
@@ -2445,6 +2403,56 @@
         },
         "運費(北部)": {
           "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
+      "partnerId": "北11",
+      "date": "2026/3/12",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "葡萄梅子（陳皮）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "玥珍軒袋(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 3,
           "checked": true
         }
       }
