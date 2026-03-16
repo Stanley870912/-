@@ -4658,6 +4658,16 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北八",
+      "date": "2026/3/16",
+      "items": {
+        "梅子夾芒果": {
+          "count": 10,
+          "checked": true
+        }
+      }
     }
   ]
 }
