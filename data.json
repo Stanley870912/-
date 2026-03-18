@@ -4228,6 +4228,40 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十",
+      "date": "2026/3/18",
+      "items": {
+        "南瓜餅(盒)": {
+          "count": 6,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 4,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（大）": {
+          "count": 2,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
