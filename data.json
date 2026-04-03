@@ -3680,11 +3680,61 @@
       }
     },
     {
+      "partnerId": "北四",
+      "date": "2026/4/3",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 10,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
       "partnerId": "北六",
       "date": "2026/4/3",
       "items": {
         "小片酥餅-原味(箱)": {
           "count": 1,
+          "checked": true
+        },
+        "冬瓜肉餅(塊)": {
+          "count": 10,
           "checked": true
         },
         "芝麻鳳梨餅(塊)": {
@@ -3735,7 +3785,7 @@
           "count": 10,
           "checked": true
         },
-        "荔枝酥(箱)": {
+        "鹹蛋黃酥(箱)": {
           "count": 1,
           "checked": true
         },
@@ -3769,52 +3819,6 @@
         },
         "袋子（小）": {
           "count": 2,
-          "checked": true
-        },
-        "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
-      "partnerId": "北四",
-      "date": "2026/4/3",
-      "items": {
-        "雪Ｑ餅(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "養生五穀沙其馬(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 1,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "駝奶(箱)": {
-          "count": 2,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "南棗核桃糕(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "花茶(包)": {
-          "count": 200,
-          "checked": true
-        },
-        "愛心袋": {
-          "count": 10,
           "checked": true
         },
         "運費(北部)": {
