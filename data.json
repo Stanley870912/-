@@ -2775,6 +2775,76 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十一",
+      "date": "2026/4/17",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "榴槤酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鹹蛋黃酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "堅果塔(個)": {
+          "count": 50,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鳳梨苦瓜汁(瓶)": {
+          "count": 10,
+          "checked": true
+        },
+        "木鱉果汁(瓶)": {
+          "count": 10,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
