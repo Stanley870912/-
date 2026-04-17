@@ -2845,6 +2845,56 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北九",
+      "date": "2026/4/17",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 3,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "梅子夾芒果": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "牛扎糖原味(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛扎糖蔓越莓(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
