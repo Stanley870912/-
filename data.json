@@ -2883,6 +2883,40 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "小蝦米",
+      "date": "2026/4/21",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "鳳梨苦瓜汁(瓶)": {
+          "count": 24,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
