@@ -3099,6 +3099,52 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十一",
+      "date": "2026/5/3",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 100,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "蔓越莓杏仁酥(袋)": {
+          "count": 1,
+          "checked": true
+        },
+        "無花果核桃派(箱)": {
+          "count": 2,
+          "checked": true
+        }
+      }
     }
   ]
 }
