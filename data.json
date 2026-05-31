@@ -1975,6 +1975,52 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十",
+      "date": "2026/5/31",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梨膏糖(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥辣味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "紅棗加核桃(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(北部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
