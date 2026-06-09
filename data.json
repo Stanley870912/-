@@ -1371,6 +1371,80 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "菁洳",
+      "date": "2026/6/9",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "葡萄梅子（原味）(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "魷魚絲(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "洛神花茶(包)": {
+          "count": 200,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 2,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蔓越莓杏仁酥(袋)": {
+          "count": 2,
+          "checked": true
+        },
+        "甘草枇杷乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "梅有芭樂(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 5,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
