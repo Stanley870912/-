@@ -2808,6 +2808,10 @@
       "partnerId": "北六",
       "date": "2026/6/16",
       "items": {
+        "鳳眼糕(盒)": {
+          "count": 5,
+          "checked": true
+        },
         "冬瓜肉餅(塊)": {
           "count": 30,
           "checked": true
@@ -2856,6 +2860,10 @@
           "count": 3,
           "checked": true
         },
+        "單色糕(檸檬)(盒)": {
+          "count": 5,
+          "checked": true
+        },
         "單色糕(杏仁)15粒": {
           "count": 3,
           "checked": true
@@ -2869,6 +2877,10 @@
           "checked": true
         },
         "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
           "count": 1,
           "checked": true
         },
