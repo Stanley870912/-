@@ -2291,6 +2291,24 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北十",
+      "date": "2026/6/24",
+      "items": {
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
