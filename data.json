@@ -2129,6 +2129,68 @@
       }
     },
     {
+      "partnerId": "北十一",
+      "date": "2026/6/28",
+      "items": {
+        "芋頭牛舌餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "牛舌餅(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "甘草枇杷乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
+    },
+    {
       "partnerId": "北三",
       "date": "2026/6/28",
       "items": {
@@ -2208,6 +2270,10 @@
           "count": 4,
           "checked": true
         },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
         "榴槤酥(箱)": {
           "count": 1,
           "checked": true
@@ -2244,6 +2310,10 @@
           "count": 2,
           "checked": true
         },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
         "袋子（大）": {
           "count": 1,
           "checked": true
@@ -2253,68 +2323,6 @@
           "checked": true
         },
         "運費(北部)": {
-          "count": 1,
-          "checked": true
-        }
-      }
-    },
-    {
-      "partnerId": "北十一",
-      "date": "2026/6/28",
-      "items": {
-        "芋頭牛舌餅(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "牛舌餅(箱)": {
-          "count": 5,
-          "checked": true
-        },
-        "雪Ｑ餅(包)": {
-          "count": 1,
-          "checked": true
-        },
-        "土鳳梨酥(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "養生五穀沙其馬(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "地瓜乾(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "蘋果乾": {
-          "count": 1,
-          "checked": true
-        },
-        "黑豆(包)": {
-          "count": 2,
-          "checked": true
-        },
-        "黃魚酥原味(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "筷子肉乾(原味) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "筷子肉乾(黑胡椒) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "筷子肉乾(蒜味) (包)": {
-          "count": 1,
-          "checked": true
-        },
-        "甘草枇杷乾(箱)": {
-          "count": 1,
-          "checked": true
-        },
-        "運費(自取)": {
           "count": 1,
           "checked": true
         }
