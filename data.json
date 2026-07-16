@@ -2032,15 +2032,11 @@
           "checked": true
         },
         "芋頭牛舌餅(箱)": {
-          "count": 1,
+          "count": 2,
           "checked": true
         },
         "牛舌餅(箱)": {
           "count": 3,
-          "checked": true
-        },
-        "鹹甜梅糕(箱)": {
-          "count": 1,
           "checked": true
         },
         "薄餅(原味)(包)": {
@@ -2069,6 +2065,10 @@
         },
         "水果餅(黑糖)(包)": {
           "count": 2,
+          "checked": true
+        },
+        "五香肉桂鹹糕(箱)": {
+          "count": 1,
           "checked": true
         },
         "綜合糕(芝杏綠)(盒)": {
@@ -2104,7 +2104,7 @@
           "checked": true
         },
         "栗子燒(盒)": {
-          "count": 9,
+          "count": 10,
           "checked": true
         },
         "梅子冬瓜糕": {
