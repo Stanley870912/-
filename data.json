@@ -2221,6 +2221,10 @@
       "partnerId": "北四",
       "date": "2026/7/30",
       "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
         "土鳳梨酥(箱)": {
           "count": 2,
           "checked": true
