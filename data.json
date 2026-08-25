@@ -2826,7 +2826,7 @@
           "checked": true
         },
         "咖哩肉餅(包)": {
-          "count": 2,
+          "count": 3,
           "checked": true
         },
         "芋頭牛舌餅(箱)": {
@@ -2858,7 +2858,7 @@
           "checked": true
         },
         "水果餅(百香果)(包)": {
-          "count": 1,
+          "count": 2,
           "checked": true
         },
         "水果餅(黑糖)(包)": {
@@ -2866,7 +2866,7 @@
           "checked": true
         },
         "綜合糕(芝杏綠)(盒)": {
-          "count": 11,
+          "count": 12,
           "checked": true
         },
         "綜合糕(咖奶綠)(盒)": {
@@ -2875,6 +2875,10 @@
         },
         "單色糕(綠豆)15粒": {
           "count": 4,
+          "checked": true
+        },
+        "鳳凰酥(包)": {
+          "count": 3,
           "checked": true
         },
         "小蘇餅(包)": {
@@ -2911,6 +2915,10 @@
         },
         "梅餅(包)": {
           "count": 2,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
           "checked": true
         },
         "袋子（小）": {
