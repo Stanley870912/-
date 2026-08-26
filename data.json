@@ -2963,8 +2963,16 @@
           "count": 1,
           "checked": true
         },
+        "梅餅(包)": {
+          "count": 5,
+          "checked": true
+        },
         "養生五穀沙其馬(箱)": {
           "count": 5,
+          "checked": true
+        },
+        "蔥餅牛軋餅(箱)": {
+          "count": 1,
           "checked": true
         },
         "梨膏糖(箱)": {
@@ -2973,10 +2981,6 @@
         },
         "黑豆(包)": {
           "count": 2,
-          "checked": true
-        },
-        "梅子夾芒果": {
-          "count": 1,
           "checked": true
         },
         "葡萄梅子（陳皮）(箱)": {
@@ -2993,6 +2997,18 @@
         },
         "筷子肉乾(原味) (包)": {
           "count": 1,
+          "checked": true
+        },
+        "花生姑娘(香辣)(包)": {
+          "count": 3,
+          "checked": true
+        },
+        "花生姑娘(藤椒)(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "花生姑娘(原味)(包)": {
+          "count": 3,
           "checked": true
         },
         "無花果核桃派(箱)": {
