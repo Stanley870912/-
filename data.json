@@ -2877,6 +2877,10 @@
           "count": 1,
           "checked": true
         },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
         "綠豆椪(包)": {
           "count": 5,
           "checked": true
@@ -2898,7 +2902,11 @@
           "checked": true
         },
         "紅麥花生酥(包)": {
-          "count": 15,
+          "count": 20,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 1,
           "checked": true
         },
         "運費(北部)": {
