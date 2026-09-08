@@ -2612,6 +2612,40 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "阿邦",
+      "date": "2026/9/8",
+      "items": {
+        "荔枝酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑豆(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "魷魚絲(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
