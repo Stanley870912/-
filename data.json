@@ -3546,6 +3546,32 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "華姐",
+      "date": "2026/9/11",
+      "items": {
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "鳳梨水果酥(個)": {
+          "count": 100,
+          "checked": true
+        },
+        "蔓越莓水果酥(個)": {
+          "count": 100,
+          "checked": true
+        },
+        "水果酥禮盒(個)": {
+          "count": 15,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
