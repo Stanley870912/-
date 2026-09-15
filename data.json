@@ -4210,7 +4210,7 @@
       "date": "2026/9/15",
       "items": {
         "綜合糕(芝杏綠)(盒)": {
-          "count": 40,
+          "count": 30,
           "checked": true
         },
         "蛋黃酥(條)": {
@@ -4246,27 +4246,27 @@
           "checked": true
         },
         "養生五穀沙其馬(箱)": {
-          "count": 4,
+          "count": 3,
           "checked": true
         },
         "地瓜乾(箱)": {
-          "count": 2,
+          "count": 1,
           "checked": true
         },
         "洛神花茶(包)": {
-          "count": 800,
+          "count": 600,
           "checked": true
         },
         "筷子肉乾(原味) (包)": {
           "count": 2,
           "checked": true
         },
-        "筷子肉乾(黑胡椒) (包)": {
-          "count": 1,
-          "checked": true
-        },
         "蔓越莓杏仁酥(袋)": {
           "count": 3,
+          "checked": true
+        },
+        "水果酥禮盒(個)": {
+          "count": 10,
           "checked": true
         },
         "運費(南部)": {
