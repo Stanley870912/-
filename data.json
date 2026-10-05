@@ -1364,6 +1364,36 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "阿邦",
+      "date": "2026/10/5",
+      "items": {
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "龍眼爆蓮子(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
