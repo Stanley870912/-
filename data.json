@@ -2964,6 +2964,64 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "北11",
+      "date": "2026/11/8",
+      "items": {
+        "牛舌餅(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "地瓜乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 1,
+          "checked": true
+        },
+        "黑芝麻糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "甘草枇杷乾(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "龍眼爆蓮子(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "運費(自取)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
