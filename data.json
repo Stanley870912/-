@@ -3616,6 +3616,88 @@
           "checked": true
         }
       }
+    },
+    {
+      "partnerId": "南一",
+      "date": "2026/11/18",
+      "items": {
+        "綜合糕(芝杏綠)(盒)": {
+          "count": 10,
+          "checked": true
+        },
+        "雪Ｑ餅(包)": {
+          "count": 1,
+          "checked": true
+        },
+        "土鳳梨酥(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "養生五穀沙其馬(箱)": {
+          "count": 5,
+          "checked": true
+        },
+        "龜苓膏(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "綜合堅果(包)": {
+          "count": 2,
+          "checked": true
+        },
+        "蘋果乾": {
+          "count": 2,
+          "checked": true
+        },
+        "駝奶(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "黃魚酥原味(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "南棗核桃糕(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "筷子肉乾(原味) (包)": {
+          "count": 2,
+          "checked": true
+        },
+        "筷子肉乾(黑胡椒) (包)": {
+          "count": 2,
+          "checked": true
+        },
+        "筷子肉乾(蒜味) (包)": {
+          "count": 1,
+          "checked": true
+        },
+        "無花果核桃派(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "甘梅飴(箱)": {
+          "count": 1,
+          "checked": true
+        },
+        "甘草金桔(箱)": {
+          "count": 2,
+          "checked": true
+        },
+        "愛心袋": {
+          "count": 2,
+          "checked": true
+        },
+        "袋子（小）": {
+          "count": 4,
+          "checked": true
+        },
+        "運費(南部)": {
+          "count": 1,
+          "checked": true
+        }
+      }
     }
   ]
 }
